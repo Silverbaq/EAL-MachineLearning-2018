@@ -1,1 +1,1 @@
-# EAL-MashineLearning-2018
+# EAL-MachineLearning-2018
